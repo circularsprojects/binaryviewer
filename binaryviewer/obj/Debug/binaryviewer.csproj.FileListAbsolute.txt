@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\binaryviewer\bin\Debug\binaryviewer.exe.config
+C:\Users\User\source\repos\binaryviewer\bin\Debug\binaryviewer.exe
+C:\Users\User\source\repos\binaryviewer\bin\Debug\binaryviewer.pdb
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.Form1.resources
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.Properties.Resources.resources
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.exe
+C:\Users\User\source\repos\binaryviewer\obj\Debug\binaryviewer.pdb
